@@ -1,4 +1,4 @@
-library("edgeR")
+7library("edgeR")
 
 
 
@@ -21,9 +21,9 @@ files <- c(
   
   "ERR458502.fastq.gz.quant.counts",
   
-  "ERR458503.fastq.gz.quant.counts",
+  "ERR458507.fastq.gz.quant.counts",
   
-  "ERR458504.fastq.gz.quant.counts"
+  "ERR458508.fastq.gz.quant.counts"
   
 )
 
